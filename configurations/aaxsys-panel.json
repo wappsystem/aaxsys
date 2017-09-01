@@ -11,6 +11,19 @@
 				"sections":
 				[
 					{
+						"name":"Test",
+						"modules":
+						[
+							{
+								"module_id":"test",
+								"name":"Test",
+								"table_id":"",
+								"url":"/modules/reports/test.html",
+								"counting":"1"
+							}
+						]
+					},
+					{
 						"name":"My Rental Units",
 						"modules":
 						[
